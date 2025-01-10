@@ -1,4 +1,4 @@
-TOKEN = '7708085069:AAG_hKpHpbUEaXJZPs9iv1O9tA9rTfkt6aU'
+TOKEN = 'your_token'
 
 currencies = {
     'BTC': 'BTC',
